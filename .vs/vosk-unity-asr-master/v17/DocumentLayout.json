@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\shaders\\tutorial\\tut1.shader||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\tutorial\\tut1.shader||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\finn\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finn\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\finn\\playermovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finn\\playermovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\finn\\checkpointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finn\\checkpointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\princess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\princess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\puzzle\\bridgepuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzle\\bridgepuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\puzzle\\wordcontainerso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzle\\wordcontainerso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\stonebridge\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stonebridge\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\finn\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finn\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\puzzle\\puzzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzle\\puzzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\raft\\raft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raft\\raft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\scenefade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenefade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\puzzle\\raftpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzle\\raftpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\camera\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\puzzle\\stonehandpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzle\\stonehandpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\assets\\scripts\\alivesproud\\sproutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC75828-9744-0515-96AD-8364A6DF07E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\alivesproud\\sproutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tut1.shader",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Shaders\\Tutorial\\Tut1.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\Tutorial\\Tut1.shader",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Shaders\\Tutorial\\Tut1.shader",
+              "RelativeToolTip": "Assets\\Shaders\\Tutorial\\Tut1.shader",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-07-14T13:46:18.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bridge.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\StoneBridge\\Bridge.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StoneBridge\\Bridge.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\StoneBridge\\Bridge.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StoneBridge\\Bridge.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:53:19.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:19:18.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Finn\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finn\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Finn\\Checkpoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finn\\Checkpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:27:43.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckpointController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Finn\\CheckpointController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finn\\CheckpointController.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Finn\\CheckpointController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finn\\CheckpointController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:28:07.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finish.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Finish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:50:51.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SceneFade.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\SceneFade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneFade.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\SceneFade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneFade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:01:23.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneController.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\SceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAArwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:42:05.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Princess.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Princess.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Princess.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Princess.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Princess.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:40:51.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Finn\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finn\\PlayerManager.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Finn\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finn\\PlayerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:48:34.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Camera\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraController.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Camera\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAABQwCYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:09:12.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovementController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Finn\\PlayerMovementController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finn\\PlayerMovementController.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Finn\\PlayerMovementController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finn\\PlayerMovementController.cs",
+              "ViewState": "AQIAABkBAAAAAAAAAAAAACgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:59:40.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoneHandPuzzle.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Puzzle\\StoneHandPuzzle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puzzle\\StoneHandPuzzle.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Puzzle\\StoneHandPuzzle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puzzle\\StoneHandPuzzle.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAIBJwHkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:39:28.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SproutController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Alivesproud\\SproutController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Alivesproud\\SproutController.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Alivesproud\\SproutController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Alivesproud\\SproutController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAIBJwJIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:31:05.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RaftPuzzle.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Puzzle\\RaftPuzzle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puzzle\\RaftPuzzle.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Puzzle\\RaftPuzzle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puzzle\\RaftPuzzle.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:40:42.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Raft.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Raft\\Raft.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Raft\\Raft.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Raft\\Raft.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Raft\\Raft.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:30:11.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordContainerSO.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Puzzle\\WordContainerSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puzzle\\WordContainerSO.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Puzzle\\WordContainerSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puzzle\\WordContainerSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:43:04.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BridgePuzzle.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Puzzle\\BridgePuzzle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puzzle\\BridgePuzzle.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Puzzle\\BridgePuzzle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puzzle\\BridgePuzzle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:39:53.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PuzzleManager.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Puzzle\\PuzzleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puzzle\\PuzzleManager.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\vosk-unity-asr-master\\Assets\\Scripts\\Puzzle\\PuzzleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puzzle\\PuzzleManager.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAqwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:22:27.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
