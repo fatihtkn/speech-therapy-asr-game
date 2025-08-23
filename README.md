@@ -1,5 +1,5 @@
 ## [Gameplay Link](https://youtu.be/gFouJqurEvw)
-# <Speech Therapy Game>
+# Speech Therapy Game
 
 ---
 
@@ -21,13 +21,11 @@ In this project, a voice-interactive 3D mobile game was developed for children w
 
 ## Tech Stack
 
-* **Engine:** Unity (recommended LTS release)
+* **Engine:** Unity 6
 * **Language:** C#
-* **Speech recognition:** Vosk (offline models)
-* **Audio:** Unity Audio / FMOD (optional)
-* **Data storage:** Local JSON or Firebase Firestore (optional)
-* **Assets & tools:** Blender, Photoshop
+* **Speech recognition:** Vosk (vosk-model-small-tr-0.3)
+* **Data storage:** Local JSON 
+* **Assets & tools:** Blender, Photoshop, Sketchfab
 
----
 
-> Replace `<PROJECT NAME>` with your project's actual name. If you want, I can fill that in, add a short install/run section, or produce a longer README with badges and license info.
+
