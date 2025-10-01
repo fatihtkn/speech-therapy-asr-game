@@ -1,4 +1,5 @@
-## [Gameplay Link](https://youtu.be/gFouJqurEvw)
+## [Gameplay](https://youtu.be/FpTOnG5PH1k?si=YRtVq8LXkMFfXJd0)
+### [Project Overview and Gameplay Video](https://youtu.be/gFouJqurEvw)
 # Speech Therapy Game
 
 ---
