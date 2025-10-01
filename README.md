@@ -18,7 +18,11 @@ In this project, a voice-interactive 3D mobile game was developed for children w
 * Offline-capable ASR via Vosk for privacy-focused usage.
 
 ---
+## Alternative Keyword Setting
+![Puzzle](https://github.com/user-attachments/assets/058f784b-7bcb-41e3-bb54-4ff81db325e8)
 
+
+---
 ## Tech Stack
 
 * **Engine:** Unity 6
@@ -26,6 +30,8 @@ In this project, a voice-interactive 3D mobile game was developed for children w
 * **Speech recognition:** Vosk (vosk-model-small-tr-0.3)
 * **Data storage:** Local JSON 
 * **Assets & tools:** Blender, Photoshop, Sketchfab
+
+
 
 
 
