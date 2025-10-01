@@ -1,5 +1,5 @@
 ## [Gameplay](https://youtu.be/FpTOnG5PH1k?si=YRtVq8LXkMFfXJd0)
-### [Project Overview and Gameplay Video](https://youtu.be/gFouJqurEvw)
+## [Project Overview and Gameplay Video](https://youtu.be/gFouJqurEvw)
 # Speech Therapy Game
 
 ---
@@ -19,9 +19,17 @@ In this project, a voice-interactive 3D mobile game was developed for children w
 * Offline-capable ASR via Vosk for privacy-focused usage.
 
 ---
-## Alternative Keyword Setting
+## In-Game Preview
+### Alternative Keyword Setting
 ![Puzzle](https://github.com/user-attachments/assets/058f784b-7bcb-41e3-bb54-4ff81db325e8)
-
+### Puzzles
+![Puzzle-1](https://github.com/user-attachments/assets/0c22d37c-6595-498f-a5c1-51fc297bd658)
+--
+![Puzzle-2](https://github.com/user-attachments/assets/80142165-6465-4b7d-9eb6-8d30f44978ab)
+--
+![Puzzle-3-1](https://github.com/user-attachments/assets/786758f9-0174-41d3-81c7-8c03e28fe091)
+--
+![Puzzle-3-2](https://github.com/user-attachments/assets/18e48d74-2223-4656-9d7a-bcd8303e6192)
 
 ---
 ## Tech Stack
